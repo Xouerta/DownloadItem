@@ -11,3 +11,4 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 ## 提供热门软件排名，按照学院来进行划分
 ## 学生用户只有查看软件详情并下载的权限，没有上传软件的权限
 ## 管理员登录可以使用密码和验证码登录，也可以利用校内下发的安全密钥进行登录
+## 学生可以通过搜索框寻找软件，支持模糊搜索
